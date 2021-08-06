@@ -1,2 +1,2 @@
-# paddle-Style-based-generato
-使用桨复现《A Style-Based Generator Architecture for Generative Adversarial Networks》论文
+# paddle-Style-based-generator
+使用paddle复现《A Style-Based Generator Architecture for Generative Adversarial Networks》论文
